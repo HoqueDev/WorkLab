@@ -1,4 +1,4 @@
-# WorkLab
+## WorkLab
 A digitalised home-learning platform written in C# powered by a PHP and a MySQL Backend.
  
  ![Logo](https://i.imgur.com/zZ8QHkK.png)
