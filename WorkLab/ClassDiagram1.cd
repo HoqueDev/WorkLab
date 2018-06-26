@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WorkLab.Model.ApiResponse&lt;TModel&gt;">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ApiResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.AuthenticateResponse">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Model\AuthenticateResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.AuthRequest">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\AuthRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.Class">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAACAQAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.CreateClassRequest">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\CreateClassRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.CreateHomework">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Model\CreateHomework.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.CreateUserRequest">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAACAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\CreateUserRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.ErrorModel">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAAA=</HashCode>
+      <FileName>Model\ErrorModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.Homework">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAACAAAAAEAAACCQAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Model\Homework.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.ModelBase" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ModelBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.StudentHomework">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAACAAA=</HashCode>
+      <FileName>Model\StudentHomework.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.SubmitHomework">
+    <Position X="6.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Model\SubmitHomework.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.SuccessResponse">
+    <Position X="8.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\SuccessResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.UpdateClassRequest">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAQAAAAAA=</HashCode>
+      <FileName>Model\UpdateClassRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.UploadFileResponse">
+    <Position X="12" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Model\UploadFileResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Model.User">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.sendComment">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Email\MailComment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.sMail">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Email\sMail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.verifCredentials">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Email\verifCredentials.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkLab.Error.ApiException">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Error\ApiException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="WorkLab.LoginType" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
